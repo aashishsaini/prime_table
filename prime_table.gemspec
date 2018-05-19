@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "prime_table"
   spec.version       = PrimeTable::VERSION
   spec.authors       = ["Aashish Saini"]
-  spec.email         = ["aashish.saini@3pillarglobal.com"]
+  spec.email         = ["aashusaini2684@gmail.com"]
 
   spec.summary       = %q{Prints the table that has N prime numberss, with each cell containing the product of the primes for the corresponding row and column}
   spec.description   = %q{Prints the table that has N prime numberss, with each cell containing the product of the primes for the corresponding row and column}
