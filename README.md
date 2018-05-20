@@ -1,4 +1,5 @@
 # PrimeTable
+Code to extract the prime numbers and generate a multiplier of each prime number. 
 
 ##Objective
 * Write a program that prints out a multiplication table of the first 'n' prime
