@@ -27,7 +27,7 @@ Or install it yourself as:
 
 ## Usage
 
-### There are three ways to extract the result:
+#### There are three ways to extract the result:
 * Install the gem locally
 * And
     * Create a ruby file and add the following to it:
@@ -64,13 +64,13 @@ Or install it yourself as:
             end
     ```
     
-### How to Run it using github code
+#### How to Run it using github code
 clone the repo and run
     ```
     'ruby table_generator_example.rb'
     ```
 
-### Complexity Considerations:
+## Complexity Considerations:
 * Generating the multiplication table is O(n**2) complexity since we have to multiply each prime by it's corresponding counterpart
 * Displaying the table is O(n) since we're just iterating through the table and displaying each row. (there are 'n' number of rows)
 
