@@ -1,6 +1,6 @@
 # PrimeTable
 
-###Objective
+##Objective
 * Write a program that prints out a multiplication table of the first 'n' prime
 numbers.(where n could be any number greater than 0)
 * The program could be run from the command line and print one table to
