@@ -25,7 +25,7 @@ Or install it yourself as:
 
 ## Usage
 
-#####There are three ways to extract the result:
+###There are three ways to extract the result:
 * Install the gem locally
 * And
     * Create a ruby file and add the following to it:
@@ -62,18 +62,18 @@ Or install it yourself as:
             end
     ```
     
-####How to Run it using github code
+##How to Run it using github code
 clone the repo and run
     ```
     'ruby table_generator_example.rb'
     ```
 
-###Complexity Considerations:
+##Complexity Considerations:
 * Generating the multiplication table is O(n**2) complexity since we have to multiply each prime by it's corresponding counterpart
 * Displaying the table is O(n) since we're just iterating through the table and displaying each row. (there are 'n' number of rows)
 
 
-###Notes
+##Notes
 • Consider complexity. How fast does your code run? How does it scale?
 - As the 'N' gets bigger the program is going to start slowing down because we are using trial division to determine if the number is prime. However, for small 'n' number of primes this solution will suffice.
 
@@ -81,9 +81,9 @@ clone the repo and run
 
 • Written tests to demonstrate TDD/BDD.
 
-###Approach
+##Approach
 
-####GetPrimes Class
+GetPrimes Class
 * Created a GetPrimes class which will instantiate 'n' number of primes
 
 ####Compute Primes Multiplication
