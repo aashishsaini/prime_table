@@ -2,6 +2,7 @@
 Code to extract the prime numbers and generate a multiplier of each prime number. 
 
 ##Objective
+
 * Write a program that prints out a multiplication table of the first 'n' prime
 numbers.(where n could be any number greater than 0)
 * The program could be run from the command line and print one table to
@@ -30,7 +31,7 @@ Or install it yourself as:
 * Install the gem locally
 * And
     * Create a ruby file and add the following to it:
-    ```
+    ```ruby
         require_relative 'lib/prime_table'
         
         puts 'Enter the number'
