@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    generate_prime_table (0.1.9)
+    generate_prime_table (0.1.10)
 
 GEM
   remote: https://rubygems.org/
