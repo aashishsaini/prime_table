@@ -5,7 +5,7 @@ module PrimeTable
       desc "copies the example rb to root directory"
 
       def copy_initializer
-        template '../table_generator_example.rb', '../'
+        template 'table_generator_example.rb', '../'
       end
     end
   end
