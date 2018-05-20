@@ -12,7 +12,7 @@ STDOUT, or can be used as service to get the table in array to use on view.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'prime_table'
+gem 'generate_prime_table'
 ```
 
 And then execute:
@@ -21,7 +21,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install prime_table
+    $ gem install generate_prime_table
 
 ## Usage
 
